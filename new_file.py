@@ -1,3 +1,3 @@
 print('neeeeeeews')
 print('Something else')
-print('yyyyyy, commit')
+for i in range(15): print(1)
